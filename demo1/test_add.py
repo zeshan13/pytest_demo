@@ -3,11 +3,7 @@
 # @Time    : 2021-04-16 9:06
 # @Author  : zeshan
 # @File    : test_add.py
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# @Time    : 2021-04-15 22:42
-# @Author  : zeshan
-# @File    : test_calculator.py
+
 # pip install allure-pytest
 import allure
 # pip install pytest
