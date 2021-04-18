@@ -1,0 +1,108 @@
+{
+  "uid" : "4b1a1f0085122682",
+  "name" : "test_div[小数相除]",
+  "fullName" : "test_div.TestDiv#test_div",
+  "historyId" : "b222148fe8e6026fba95d5b8c1dd383f",
+  "time" : {
+    "start" : 1618714692762,
+    "stop" : 1618714692762,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "setup_and_teardown",
+    "time" : {
+      "start" : 1618714692752,
+      "stop" : 1618714692752,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "f3f96fbe19c72b88",
+      "name" : "stdout",
+      "source" : "f3f96fbe19c72b88.txt",
+      "type" : "text/plain",
+      "size" : 88
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "setup_and_teardown::0",
+    "time" : {
+      "start" : 1618714692762,
+      "stop" : 1618714692762,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_div"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestDiv"
+  }, {
+    "name" : "host",
+    "value" : "周耳朵"
+  }, {
+    "name" : "thread",
+    "value" : "3980-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_div"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "a",
+    "value" : "8.2"
+  }, {
+    "name" : "b",
+    "value" : "4.1"
+  }, {
+    "name" : "expect",
+    "value" : "2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4b1a1f0085122682.json",
+  "parameterValues" : [ "8.2", "4.1", "2" ]
+}
